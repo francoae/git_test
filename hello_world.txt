@@ -1,0 +1,1 @@
+I'm testing how git commits and adds work.
